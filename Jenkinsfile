@@ -1,7 +1,7 @@
 node {
    def mvnHome
    stage('Preparation') {  
-      git ‘https://github.com/vaadin/addressbook.git’
+      git 'https://github.com/udhingra/myproject.git'
        mvnHome = tool 'dev version 1'
    }
    stage('Compile') {
