@@ -1,1 +1,5 @@
 creating a new file to test config command of git 
+
+adding a new line
+adding second empty line
+total 4 lines in file
