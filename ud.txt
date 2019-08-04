@@ -1,0 +1,10 @@
+creating a new file to test config command of git 
+
+adding a new line
+adding second empty line
+total 4 lines in file
+
+
+adding few mor elines to test git reset mixed option
+
+git reset mixed is the default option

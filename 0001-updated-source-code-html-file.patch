@@ -1,0 +1,23 @@
+From 0fe866161f73dafd98ffd773948229f98161c594 Mon Sep 17 00:00:00 2001
+From: DHINGRA UPASANA <upasanadhingra.ud@gmail.com>
+Date: Sat, 3 Aug 2019 18:38:58 +0000
+Subject: [PATCH] updated source code html file
+
+---
+ hello.html | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+diff --git a/hello.html b/hello.html
+index b906dbe..def3daa 100755
+--- a/hello.html
++++ b/hello.html
+@@ -1,2 +1,6 @@
+ hi i am nodifying this file
+ <bi>welcome to my first page of html </b1>
++
++i will creating a path to this file so that other users can use that path or patch created to apply the changes on their branch
++
++
+-- 
+2.7.4
+
